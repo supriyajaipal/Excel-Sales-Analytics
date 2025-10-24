@@ -3,12 +3,11 @@
 
 ## Sales Report :
 
-
 - **Project objective:** 
 
-    **1.** Developed a detailed Customer Performance Report 
+    **1.** Developed a detailed _[Customer Performance Report](https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Conducted a comprehensive comparison between Market Performance and Sales Targets
+    **2.** Conducted a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor, evaluate, and enhance their sales performance through data-driven insights.
 
@@ -22,9 +21,9 @@
 
 - **Project objective:** 
 
-    **1.** Built comprehensive Profit & Loss (P&L) Reports by Fiscal Year and Month
+    **1.** Built comprehensive Profit & Loss (P&L) Reports by _[Fiscal Year](https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
-    **2.** Developed P&L Reports segmented by Markets
+    **2.** Developed P&L Reports segmented by _[Markets](https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of finance analytics:** Evaluate financial performance, support data-driven decision-making, and enhance communication with stakeholders.
 
