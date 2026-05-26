@@ -7,13 +7,13 @@ Business-focused Excel analytics project including Customer Performance, Market 
 
 1. Created [Customer Performance Report] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-2. Compare [Market Performance vs Sales Targets] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+2. Compared [Market Performance vs Sales Targets] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ### Finance Reports
 
-1. Create P&L reports by [Fiscal Years] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf) and [Months] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)
+1. Created P & L reports by [Fiscal Years] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf) and [Months] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)
 
-2. Create P&L reports by [Markets] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Market.pdf)
+2. Created P & L reports by [Markets] (https://github.com/supriyajaipal/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Market.pdf)
 
 ## Reports Included
 
